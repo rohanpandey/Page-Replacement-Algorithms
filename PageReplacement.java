@@ -1,6 +1,5 @@
 /*
  * @author  :  Rohan Pandey
- * @roll no :  1710110419
  */
 
 package osgla2;
